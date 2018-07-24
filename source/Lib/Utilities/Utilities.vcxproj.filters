@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\Lib\Utilities\ColourRemapping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\Lib\Utilities\VideoIOYuv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\Lib\Utilities\program_options_lite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\Lib\Utilities\ColourRemapping.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\Lib\Utilities\VideoIOYuv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\Lib\Utilities\program_options_lite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\Lib\Utilities\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\VisualStudio\common.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+    <Natvis Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\VisualStudio\static_vector.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9F263FE8-430C-3289-AABD-B7C5ACB7F304}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Natvis Files">
+      <UniqueIdentifier>{43097978-DE9D-3EF5-93D3-13FB687F62C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F006178D-7ED6-3631-9008-B71B0AE8A62D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

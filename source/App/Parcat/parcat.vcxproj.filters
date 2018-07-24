@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\App\Parcat\parcat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\shanxi\Desktop\VVC win\BMS\BMS-1.1 - 副本\source\App\Parcat\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F006178D-7ED6-3631-9008-B71B0AE8A62D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
